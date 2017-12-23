@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv
+END
+FLVHeader.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVHeader.as
+END
+FLVTag.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVTag.as
+END
+FLVParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVParser.as
+END
+FLVParserState.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVParserState.as
+END
+FLVTagAudio.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVTagAudio.as
+END
+FLVTagScriptDataObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVTagScriptDataObject.as
+END
+FLVTagVideo.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/flv/FLVTagVideo.as
+END

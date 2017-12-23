@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata
+END
+MetadataGroup.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/MetadataGroup.as
+END
+MetadataWatcher.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/MetadataWatcher.as
+END
+Metadata.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/Metadata.as
+END
+MetadataNamespaces.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/MetadataNamespaces.as
+END
+NullMetadataSynthesizer.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/NullMetadataSynthesizer.as
+END
+CuePoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/CuePoint.as
+END
+TimelineMetadata.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/TimelineMetadata.as
+END
+CuePointType.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/CuePointType.as
+END
+MetadataSynthesizer.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/MetadataSynthesizer.as
+END
+TimelineMarker.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/TimelineMarker.as
+END
+NonSynthesizingMetadata.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/metadata/NonSynthesizingMetadata.as
+END

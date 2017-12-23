@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/logging
+END
+TraceLogger.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/logging/TraceLogger.as
+END
+Logger.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/logging/Logger.as
+END
+Log.as
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/logging/Log.as
+END
+TraceLoggerFactory.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/logging/TraceLoggerFactory.as
+END
+LoggerFactory.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/logging/LoggerFactory.as
+END

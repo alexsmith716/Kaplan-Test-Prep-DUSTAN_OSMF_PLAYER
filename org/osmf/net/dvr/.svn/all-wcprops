@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr
+END
+DVRCastStreamInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastStreamInfo.as
+END
+DVRCastRecordingInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastRecordingInfo.as
+END
+DVRCastConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastConstants.as
+END
+DVRCastNetLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastNetLoader.as
+END
+DVRCastNetConnectionFactory.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastNetConnectionFactory.as
+END
+TestableResponder.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/TestableResponder.as
+END
+DVRCastDVRTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastDVRTrait.as
+END
+DVRCastStreamInfoRetriever.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastStreamInfoRetriever.as
+END
+DVRCastNetStream.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastNetStream.as
+END
+DVRCastTimeTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRCastTimeTrait.as
+END
+DVRUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/dvr/DVRUtils.as
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f
+END
+HTTPStreamingF4FIndexHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/HTTPStreamingF4FIndexHandler.as
+END
+AdobeBootstrapBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/AdobeBootstrapBox.as
+END
+HTTPStreamingF4FStreamInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/HTTPStreamingF4FStreamInfo.as
+END
+MediaDataBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/MediaDataBox.as
+END
+FragmentDurationPair.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/FragmentDurationPair.as
+END
+HTTPStreamingF4FFileHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/HTTPStreamingF4FFileHandler.as
+END
+Box.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/Box.as
+END
+AdobeSegmentRunTable.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/AdobeSegmentRunTable.as
+END
+AdobeFragmentRandomAccessBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/AdobeFragmentRandomAccessBox.as
+END
+FragmentAccessInformation.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/FragmentAccessInformation.as
+END
+AdobeFragmentRunTable.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/AdobeFragmentRunTable.as
+END
+HTTPStreamingF4FIndexInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/HTTPStreamingF4FIndexInfo.as
+END
+LocalRandomAccessEntry.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/LocalRandomAccessEntry.as
+END
+SegmentFragmentPair.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/SegmentFragmentPair.as
+END
+BoxInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/BoxInfo.as
+END
+GlobalRandomAccessEntry.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/GlobalRandomAccessEntry.as
+END
+BoxParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/BoxParser.as
+END
+FullBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/FullBox.as
+END
+F4FConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/f4f/F4FConstants.as
+END

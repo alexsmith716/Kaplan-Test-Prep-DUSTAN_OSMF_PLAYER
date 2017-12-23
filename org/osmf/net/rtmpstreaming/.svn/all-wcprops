@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming
+END
+RTMPDynamicStreamingNetLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming/RTMPDynamicStreamingNetLoader.as
+END
+DroppedFramesRule.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming/DroppedFramesRule.as
+END
+InsufficientBandwidthRule.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming/InsufficientBandwidthRule.as
+END
+InsufficientBufferRule.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming/InsufficientBufferRule.as
+END
+RTMPNetStreamMetrics.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming/RTMPNetStreamMetrics.as
+END
+SufficientBandwidthRule.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/rtmpstreaming/SufficientBandwidthRule.as
+END

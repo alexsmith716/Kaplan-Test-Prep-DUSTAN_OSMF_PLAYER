@@ -1,0 +1,68 @@
+8
+
+dir
+9
+http://ianford1776@dev.agitcraft.com/vidiot/trunk/fla/org/osmf/elements/proxyClasses
+http://ianford1776@dev.agitcraft.com/vidiot
+
+
+
+2010-05-04T23:17:48.547150Z
+9
+ianford1776
+
+
+svn:special svn:externals svn:needs-lock
+
+DurationSeekTrait.as
+file
+
+
+
+
+2010-03-13T01:39:32.000000Z
+de4c6ec6ea068d17eef935a800b0d4d1
+2010-05-04T23:17:48.547150Z
+9
+ianford1776
+has-props
+
+ProxyMetadata.as
+file
+
+
+
+
+2010-03-17T16:35:52.000000Z
+bcc8f69227158fa98c7bee07eab38a34
+2010-05-04T23:17:48.547150Z
+9
+ianford1776
+has-props
+
+LoadFromDocumentLoadTrait.as
+file
+
+
+
+
+2010-03-12T17:51:52.000000Z
+2b6581d8f89307f4617484992f924cac
+2010-05-04T23:17:48.547150Z
+9
+ianford1776
+has-props
+
+DurationTimeTrait.as
+file
+
+
+
+
+2010-03-03T17:18:02.000000Z
+10c4ddff48e462385bbaad95b45ef167
+2010-05-04T23:17:48.547150Z
+9
+ianford1776
+has-props
+

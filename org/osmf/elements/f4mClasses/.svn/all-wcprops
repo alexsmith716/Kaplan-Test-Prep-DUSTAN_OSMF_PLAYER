@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses
+END
+Media.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/Media.as
+END
+ManifestParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/ManifestParser.as
+END
+DRMAdditionalHeader.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/DRMAdditionalHeader.as
+END
+Manifest.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/Manifest.as
+END
+DVRInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/DVRInfo.as
+END
+BootstrapInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/BootstrapInfo.as
+END
+Base64Decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/Base64Decoder.as
+END
+DateUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/f4mClasses/DateUtil.as
+END

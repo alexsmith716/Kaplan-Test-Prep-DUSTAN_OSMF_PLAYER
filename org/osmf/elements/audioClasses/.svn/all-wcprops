@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses
+END
+AudioSeekTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses/AudioSeekTrait.as
+END
+AudioTimeTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses/AudioTimeTrait.as
+END
+AudioAudioTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses/AudioAudioTrait.as
+END
+SoundAdapter.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses/SoundAdapter.as
+END
+AudioPlayTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses/AudioPlayTrait.as
+END
+SoundLoadTrait.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/elements/audioClasses/SoundLoadTrait.as
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming
+END
+DownloadRatioRule.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/DownloadRatioRule.as
+END
+HTTPNetStream.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPNetStream.as
+END
+HTTPStreamingFileHandlerBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamingFileHandlerBase.as
+END
+HTTPStreamRequest.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamRequest.as
+END
+HTTPStreamingNetLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamingNetLoader.as
+END
+HTTPStreamingIndexInfoBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamingIndexInfoBase.as
+END
+HTTPNetStreamMetrics.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPNetStreamMetrics.as
+END
+HTTPStreamingIndexHandlerBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamingIndexHandlerBase.as
+END
+HTTPStreamingState.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamingState.as
+END
+HTTPStreamingUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vidiot/!svn/ver/9/trunk/fla/org/osmf/net/httpstreaming/HTTPStreamingUtils.as
+END
